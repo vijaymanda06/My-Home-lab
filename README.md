@@ -108,7 +108,7 @@ on my phone, over Tailscale. That's the kind of thing that makes a
 homelab feel real.
 
 ![New Relic Overview Dashboard](assets/new-relic-overview.png)
-![New Relic Kubernetes Explorer](assets/new-relic-kubernetes-explorer.png)
+![New Relic Kubernetes Explorer](assets/falcosidekick-ui.png)
 
 - **Installed via:** `newrelic-bundle` Helm chart in `newrelic` namespace
 - **Agent version:** 1.72.7 running on all 3 nodes
@@ -146,7 +146,7 @@ and within seconds Falco logs `Terminal shell in container detected`.
 That's not a synthetic test — that's the exact behaviour a real 
 attacker would trigger.
 
-![Falcosidekick UI](assets/falcosidekick-ui.png)
+![Falcosidekick UI](assets/new-relic-kubernetes-explorer.png)
 
 - **Installed via:** Helm in `falco` namespace
 - **Running as:** DaemonSet on both worker nodes
