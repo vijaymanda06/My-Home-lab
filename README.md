@@ -102,7 +102,7 @@ official Helm bundle — one chart that drops the infrastructure agent,
 Kubernetes integration, and Fluent Bit log forwarder all at once.
 
 The part that genuinely surprised me — I opened the New Relic mobile 
-app on my S23 Ultra and my entire cluster was right there. Host metrics, 
+app on my phone and my entire cluster was right there. Host metrics, 
 pod health, 116 containers, all three nodes. Same data I see on my laptop, 
 on my phone, over Tailscale. That's the kind of thing that makes a 
 homelab feel real.
