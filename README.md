@@ -239,5 +239,3 @@ Currently backing:
 - Prometheus: 10 GB PVC
 - Grafana: 2 GB PVC (dashboards survive restarts)
 
-
-## What's Next
