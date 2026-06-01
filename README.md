@@ -2,6 +2,9 @@
 
 ![Homelab Dashboard and Terminal](assets/cover.png)
 
+## Update one
+https://github.com/vijaymanda06/Home-Lab.git
+
 I built a fully functional 3-node Kubernetes cluster that runs 24/7 
 on my personal laptop — accessible from anywhere in the world, 
 including from my phone, with zero cloud costs and zero open ports.
